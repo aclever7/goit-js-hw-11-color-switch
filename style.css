@@ -1,0 +1,15 @@
+body {
+  text-align: center;
+}
+
+button {
+  cursor: pointer;
+  text-decoration: none;
+  display: inline-block;
+  color: black;
+  padding: 20px 30px;
+  margin: 10px 20px;
+  font-family: sans-serif;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+}
